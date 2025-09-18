@@ -1,0 +1,9 @@
+com/photowatermark/WatermarkConfig.class
+com/photowatermark/ExifReader.class
+com/photowatermark/WatermarkPosition.class
+com/photowatermark/FileProcessor.class
+com/photowatermark/ConfigManager.class
+com/photowatermark/WatermarkEngine.class
+com/photowatermark/PhotoWatermarkTool.class
+com/photowatermark/WatermarkEngine$1.class
+com/photowatermark/FileProcessor$ProcessResult.class
